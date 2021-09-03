@@ -5,7 +5,7 @@ def main():
     i = 1
     f1 = 0
     f2 = 1
-    x = 0
+    x = 1
     while i <= n or n == 0: 
         if i > n:
             x = f1
